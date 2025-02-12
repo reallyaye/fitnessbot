@@ -1,2 +1,4 @@
-worker: python fitnessbot.py
+worker: python3 fitness_bot.py
+
+
 
